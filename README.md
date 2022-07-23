@@ -1,3 +1,3 @@
-#RMIK
+RMIK
 
 created by Clarr
